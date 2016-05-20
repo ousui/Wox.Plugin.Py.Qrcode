@@ -1,0 +1,12 @@
+{
+  "ID": "74BF61EAE9543E64371AF479B594FDEE",
+  "ActionKeyword": "qr",
+  "Name": "二维码生成器",
+  "Description": "根据你输入的字符串，生成二维码！",
+  "Author": "ousui",
+  "Version": "1.0.0",
+  "Language": "python",
+  "Website": "http://ousui.org",
+  "IcoPath": "images/ico.png",
+  "ExecuteFileName": "Qrcode.py"
+}
